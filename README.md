@@ -1,5 +1,4 @@
 # go-json-rest-middleware-mimiclatency
-==================================
 
 [![godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/MrWaggel/go-json-rest-middleware-mimiclatency) [![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://raw.githubusercontent.com/MrWaggel/go-json-rest-middleware-mimiclatency/master/LICENSE)
 
